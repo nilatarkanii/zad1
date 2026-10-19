@@ -1,2 +1,2 @@
-# zad1
-ai podstawy
+# Ai podstawy
+
